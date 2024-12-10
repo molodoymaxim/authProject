@@ -18,8 +18,8 @@
 ## Установка и запуск
 ### Клонирование репозитория
 ```bash
-git clone https://github.com/molodoymaxim/authenticationProject.git
-cd authenticationProject
+git clone https://github.com/molodoymaxim/authProject.git
+cd authProject
 ```
 ### Настройка переменных окружения .env
 Пример файла .env. Необходимо создать файл и подставить свои значения.
