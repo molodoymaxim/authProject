@@ -22,7 +22,7 @@ git clone https://github.com/molodoymaxim/authenticationProject.git
 cd authenticationProject
 ```
 ### Настройка переменных окружения .env
-Пример файла .env лежит внутри проекта. Необходимо подставить свои значения.
+Пример файла .env. Необходимо создать файл и подставить свои значения.
 ```
 # База данных
 POSTGRES_USER=user
